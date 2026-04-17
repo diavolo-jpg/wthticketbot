@@ -413,4 +413,4 @@ async def view_nickname_requests(inter: disnake.ApplicationCommandInteraction):
 
 # ================== ЗАПУСК БОТА ==================
 if __name__ == "__main__":
-    bot.run("ВАШ_ТОКЕН_БОТА")  # Замените на реальный токен
+    bot.run("MTQ5NDcwNTM3NTA5NjczMzg0Nw.GmtqJy.fItaXjNZKD6qajQ10ACpC3c1aYeR312s4pOfKM")  # Замените на реальный токен
