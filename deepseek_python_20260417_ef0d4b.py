@@ -411,6 +411,3 @@ async def view_nickname_requests(interaction: discord.Interaction):
 
     await interaction.response.send_message(embed=embed, ephemeral=True)
 
-# ================== ЗАПУСК БОТА ==================
-if __name__ == "__main__":
-    bot.run("MTQ5NDcwNTM3NTA5NjczMzg0Nw.Gb_Y8W.qliChn1y6g3J0PR2wo716EFtPYShLL9UgGn3D8")  # Замените на реальный токен
